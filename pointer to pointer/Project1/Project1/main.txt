@@ -1,0 +1,89 @@
+
+	The Libraries....
+
+
+
+*****************************************************************************
+#include <stdio.h>
+
+int printf(const char *format,...); ==> how many written...
+int scanf(const char * format , ...) ==> success information....
+int putchar(int ch) ==>  information of written charachter ascii code ...
+int getchar(void) ===> inormation of taken character ascii code ...(yes enter and eco)
+puts(str) ==> it prints str and adds \n
+
+*****************************************************************************
+#include <math.h>
+
+double pow (double base, double exponent ) ==> returns the pow...
+int abs( int n) ==> returns the asbsolute value of n ...
+double sqrt(double arg) ==> returns the square root  of the arg ....
+exp()
+ceil()
+*****************************************************************************
+
+#include <conio.h>  // private  for microsoft ...
+
+_getch() : writes no enter and no echo
+_getche() : writes with no enter and yes echo
+
+*****************************************************************************
+#include <ctype.h>
+
+***************control********************
+int isalnum (int) ==: checks the is...             
+int isalpha (int) ==: checks the is...
+int islower (int) ==: checks the is...
+int isupper (int) ==: checks the is...
+int isdigit (int) ==: checks the is...
+int isxdigi (int) ==: checks the is...t
+int iscntrl (int) ==: checks the is...
+int isgraph (int) ==: checks the is...
+int isspace (int) ==: checks the is...
+int isblank (int) ==: checks the is...
+int isprint (int) ==: checks the is...
+int ispunct (int) ==: checks the is...
+********************toany********************
+int tolower(int) : converts if is upper , if is not itself.  ==> return ascii...
+int toupper(int) : converts if is upper , if is not itself.  ==> return ascii...
+
+
+
+*****************************************************************************
+
+#include <stdlib.h>
+
+RAND_MAX   : the macro of srand() function round 0 <= x <= RAND_MAX
+int rand(void)   ==>  the random numbers in numbers chain default seed value(1)
+void srand(unsigned int ) ==> changes to number chain.
+fixing srand()  according to epoche of linux starting 1.1.1970 from the  second that is over\
+#include <time.h>
+time_t time(time_t *ptr) ==> always changes second from 1970...
+reel using random : srand((unsigned)time(NULL))
+
+
+******************************************************************************
+#include <stddef.h>
+
+some typedefs ==>
+size_t ==> generally len (the type : sizeof's return value) so use %zu format type.
+ptrdiff_t ==> difference of two address(return value)
+
+
+
+******************************************************************************
+#include <string.h>
+
+size_t strlen(const char* p); ==< returns lenght of str
+char* strchr(const char* p, int c); ==> if it is founded , returns the address of character . if not returns NULL pointer.
+char* strrchr(const char* p, int c) ==> it starts the end of str
+char* strstr(cosnt char* p, const char searching) ==> if it finds returns that first address if not returns null pointer.
+char* strpbrk(const char* p, anystr) ==> is there any in anystr if there is no even one returns null pointer
+char* strcpy(char* pdest, const char* psource) ==> (const sonda), it copies from source to pdest. it returns pdest first address.be carefull(overlap) it is not the same array.
+char* strcat(char* pdest, const char* source) ==> adss source on pdest
+int strcmp(const char* p1, const char* p2) ==> if p1 > p2 = returns > 0, if p1 = p2 = returns = 0, if p1 < p2 returns < 0
+//that strcmp works according to lexicopraphical compare or container comparison (dictionary)
+//so , 1234 > 123(> 0), z > abcdefghjklmn....(according to ascii table)
+
+
+

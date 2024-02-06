@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\Hardy-Ramanujan-numbers\main.c(24,68): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\Hardy-Ramanujan-numbers\main.c(24,68): message : placeholders and their parameters expect 5 variadic arguments, but 6 were provided
+  Generating code
+  2 of 5 functions (40.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hardy-Ramanujan-numbers.vcxproj -> C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\x64\Release\Hardy-Ramanujan-numbers.exe

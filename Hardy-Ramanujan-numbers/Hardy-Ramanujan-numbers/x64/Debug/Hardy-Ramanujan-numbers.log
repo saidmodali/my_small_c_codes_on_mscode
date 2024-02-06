@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\Hardy-Ramanujan-numbers\main.c(20,60): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\Hardy-Ramanujan-numbers\main.c(20,60): message : placeholders and their parameters expect 5 variadic arguments, but 6 were provided
+  Hardy-Ramanujan-numbers.vcxproj -> C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\Hardy-Ramanujan-numbers\x64\Debug\Hardy-Ramanujan-numbers.exe

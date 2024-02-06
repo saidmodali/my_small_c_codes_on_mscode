@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\how_many_words\how_many_words\main.c(31,7): warning C4013: 'isspace' undefined; assuming extern returning int
+  how_many_words.vcxproj -> C:\Users\said_\OneDrive\Masaüstü\my_projects_on_C\how_many_words\x64\Debug\how_many_words.exe

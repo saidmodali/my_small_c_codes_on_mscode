@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "C:\\Users\\said_\\OneDrive\\Masaüstü\\working on c\\Project1\\Project1",
+    "command": "\"C:\\WINDOWS\\system32\\CL.exe\" \/c \/Zi \/nologo \/W3 \/WX- \/diagnostics:column \/O2 \/Oi \/D CODE_ANALYSIS \/D _CRT_SECURE_NO_WARNINGS \/EHsc \/MD \/GS \/Gy \/fp:precise \/permissive- \/Fo\"x64\\Release\\\\\" \/Gd \/TC   \"C:\\Users\\said_\\OneDrive\\Masaüstü\\working on c\\Project1\\Project1\\nutility.c\"",
+    "file": "C:\\Users\\said_\\OneDrive\\Masaüstü\\working on c\\Project1\\Project1\\nutility.c"
+  }
+]

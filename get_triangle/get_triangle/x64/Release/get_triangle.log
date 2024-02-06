@@ -1,0 +1,7 @@
+﻿  main.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\said_\OneDrive\Masaüstü\all projects in C\get_triangle\get_triangle\main.c(33): warning C4716: 'get_triangle': must return a value
+  Finished generating code
+  get_triangle.vcxproj -> C:\Users\said_\OneDrive\Masaüstü\all projects in C\get_triangle\x64\Release\get_triangle.exe

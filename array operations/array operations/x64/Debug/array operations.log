@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\said_\OneDrive\Masaüstü\all projects in C\array operations\array operations\main.c(9): warning C4716: 'print': must return a value
+C:\Users\said_\OneDrive\Masaüstü\all projects in C\array operations\array operations\main.c(25): warning C4716: 'arrange_numbers': must return a value
+  array operations.vcxproj -> C:\Users\said_\OneDrive\Masaüstü\all projects in C\array operations\x64\Debug\array operations.exe
